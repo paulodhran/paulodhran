@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulodhran
-- 👀 I’m interested in ways of working, sensemaking, and playful learning.
-- 🌱 I’m currently learning about complexity and systems thinking.
+- 👀 I’m interested in complexity, systems, and playful learning.
+- 🌱 I’m currently learning more about complex adaptive systems and systems thinking.
 - 💞️ I’m looking to collaborate on workshops and articles on similar interests.
 - 📫 How to reach me: try twitter @paulodhran.com
 
